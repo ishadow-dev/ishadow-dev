@@ -1,16 +1,20 @@
-## Hi there 👋
+## <picture><img src="https://github.com/user-attachments/assets/31f0cb4e-1ec9-44fe-8330-14ef84534c22" width=50px></picture> **About me**
 
-<!--
-**ishadow-dev/ishadow-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**- 👋 Hi! I’m iliya**
 
-Here are some ideas to get you started:
+## 🔧 Skills & Technologies:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages: Python
+- Frameworks: Django, flask, [Other Frameworks]
+## 🌱 Currently Learning:
+
+-SQL Server
+
+## 📚 Sharing Knowledge:
+
+- Telegram Channel : https://t.me/ishadowvpn
+
+## 📫 Get in Touch:
+
+- ishadowdev@gmail.com
+- id Telegram : @shadow_y_t
