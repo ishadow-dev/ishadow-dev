@@ -1,6 +1,6 @@
 ## <picture><img src="https://github.com/user-attachments/assets/967f3c8a-1cc4-425b-a8fd-bbe6a4d9772a" width=50px></picture> **About me**
 
-**- 👋 Hi! I’m iliya**
+- **👋 Hi! I’m iliya**
 
 ## 🔧 Skills & Technologies:
 
@@ -8,7 +8,7 @@
 - Frameworks: Django, flask, [Other Frameworks]
 ## 🌱 Currently Learning:
 
--SQL Server
+- SQL Server
 
 ## 📚 Sharing Knowledge:
 
