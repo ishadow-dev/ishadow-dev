@@ -1,4 +1,4 @@
-## <picture><img src="https://github.com/user-attachments/assets/31f0cb4e-1ec9-44fe-8330-14ef84534c22" width=50px></picture> **About me**
+## <picture><img src="https://github.com/user-attachments/assets/967f3c8a-1cc4-425b-a8fd-bbe6a4d9772a" width=50px></picture> **About me**
 
 **- 👋 Hi! I’m iliya**
 
