@@ -4,8 +4,8 @@
 
 ## 🔧 Skills & Technologies:
 
-- **Languages:** Python, JavaScript, TypeScript, PineScript
-- **Frameworks:** Flask, FastAPI, NestJS, Express.js
+- **Languages:** Python, C#
+- **Frameworks:** Flask, FastAPI
 - **Databases:** MySQL
 - **Telegram Bots**
 - **Linux Scripting**
@@ -13,7 +13,7 @@
 
 ## 🌱 Currently Learning:
 
-- NestJS
+- *
 
 ## 📚 Sharing Knowledge:
 
