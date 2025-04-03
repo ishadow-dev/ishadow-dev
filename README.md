@@ -5,15 +5,16 @@
 ## 🔧 Skills & Technologies:
 
 - **Languages:** Python, C#
-- **Frameworks:** Flask, FastAPI
+- **Frameworks:** Flask, FastAPI, Pyrogram And ...
 - **Databases:** MySQL
 - **Telegram Bots**
 - **Linux Scripting**
 - **API Development**
+- **Game Development(With Unity)**
 
 ## 🌱 Currently Learning:
 
-- *
+- **Unity**
 
 ## 📚 Sharing Knowledge:
 
