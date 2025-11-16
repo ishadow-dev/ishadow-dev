@@ -2,25 +2,60 @@
 
 # 👋 Hi! I'm Iliya
 
-## 🔧 Skills & Technologies:
+- 💻 Passionate about **Python**, backend development, and automation  
+- 🧠 Interested in **APIs**, bots، and **game development**  
+- 🐧 Love working on **Linux** and scripting
 
-- **Languages:** Python, C#
-- **Frameworks:** Flask, FastAPI, Pyrogram And ...
-- **Databases:** MySQL
-- **Telegram Bots**
-- **Linux Scripting**
-- **API Development**
-- **Game Development(With Unity)**
+---
 
-## 🌱 Currently Learning:
+## 📊 GitHub Stats
 
-- **Unity**
+<div align="center">
 
-## 📚 Sharing Knowledge:
+  <img src="https://github-readme-stats.vercel.app/api?username=iliya-Developer&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliya-Developer&layout=compact&theme=tokyonight" height="160" />
+
+</div>
+
+---
+
+## 🧠 Skill Overview
+
+### 🎨 Languages
+
+| Language | Level |
+|---------|--------|
+| **Python** | ██████████ 100% |
+| **HTML** | ███████░░░ 70% |
+| **CSS** | ██░░░░░░░░ 20% |
+| **Shell** | ███████░░░ 70% |
+| **C#** | ███░░░░░░░░ 30% |
+
+---
+
+## 🔧 Skills & Technologies
+
+- **Frameworks:** Flask, FastAPI, PyTelegramBotAPI, Telethon
+- **Databases:** MySQL  
+- **Telegram Bots**  
+- **Linux Scripting**  
+- **API Development** 
+
+---
+
+## 🌱 Currently Learning
+
+- Network And Security
+
+---
+
+## 📚 Sharing Knowledge
 
 - Telegram Channel: [iliya_developer](https://t.me/iliya_developer)
 
-## 📫 Get in Touch:
+---
 
-- Email: [ishadowdev@gmail.com](mailto:ishadowdev@gmail.com)
-- Telegram ID: [@iliyadevsh](https://t.me/iliyadevsh)
+## 📫 Get in Touch
+
+- Email: [ishadowdev@gmail.com](mailto:ishadowdev@gmail.com)  
+- Telegram: [@iliyadevsh](https://t.me/iliyadevsh)
